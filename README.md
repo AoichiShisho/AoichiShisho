@@ -15,7 +15,7 @@
 
 ---
 
-### Connect With Me
+### 💬　Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/so-nakamura-ab544a246/">
