@@ -4,7 +4,7 @@
 
 <li>🎮 My main interest is in Game Development</li>
 <li>📱 I'm currently working on Unity and iPhone App oriented projects!
-<li>🗣️ Please contact me for any Game Dev Opportunities!</li>
+<li>🗣️ Feel free to connect me for any Game Dev Opportunities!</li>
 
 ---
 
