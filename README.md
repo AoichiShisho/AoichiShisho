@@ -1,4 +1,4 @@
-# Hi there 👋
+# Konnichiwa 👋
 
 <h3>Hi, I'm So Nakamura, a Senior Student <a href="keio.ac.jp">@Keio University</a> </h3> 
 
