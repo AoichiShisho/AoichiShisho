@@ -5,7 +5,7 @@
 <li>🎮 My main interest is in Game Development!</li>
 <li>📱 I'm currently working on Unity and iPhone App oriented projects.
 <li>🧑‍🏫 I also teach Unity/Swift/Ruby and Movie Editing to middle and high school students.
-<li>🗣️ Feel free to connect with me for any Game Dev Opportunities!</li>
+<li>🗣️ Feel free to connect with me for any opportunities!</li>
 
 ---
 
