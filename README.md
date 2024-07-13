@@ -2,7 +2,7 @@
 
 <h3>Hi, I'm So Nakamura, a Senior Student <a href="keio.ac.jp">@Keio University</a> </h3> 
 
-<li>🎮 My main interest is in Game Development!</li>
+<li>🎮 My main interest is in Game Development.</li>
 <li>📱 I'm currently working on Unity and iPhone App oriented projects.
 <li>🧑‍🏫 I also teach Unity/Swift/Ruby and Movie Editing to middle and high school students.
 <li>👨‍💻 I'm an incoming SDE at a Video Game Company.
