@@ -1,4 +1,4 @@
-# Konnichiwa 👋
+# Konnichiwa
 
 <h3>Hi, I'm So Nakamura, a Senior Student <a href="keio.ac.jp">@Keio University</a> </h3> 
 
@@ -6,7 +6,7 @@
 <li>📱 I'm currently working on Unity and iPhone App oriented projects.
 <li>🧑‍🏫 I also teach Unity/Swift/Ruby and Movie Editing to middle and high school students.
 <li>👨‍💻 I'm an incoming SDE at a Video Game Company.
-<li>🗣️ Feel free to connect with me for any opportunities!</li>
+<li>🗣️ Feel free to connect with me for any opportunities.</li>
 
 ---
 
