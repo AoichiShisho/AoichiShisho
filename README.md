@@ -12,7 +12,7 @@
 
 ### ⌨️ My Technical Stack / Tools I Use
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=unity,cs,cpp,c,swift,py,java,firebase,r,ruby,js,html,css,react,bootstrap,tailwind,p5js,haskell,git,github,ae,pr,visualstudio,idea,vscode,atom&perline=10" />
+  <img src="https://skillicons.dev/icons?i=unity,cs,cpp,c,swift,py,java,firebase,r,ruby,js,html,css,react,bootstrap,tailwind,p5js,haskell,git,github,ae,pr,visualstudio,idea,rider,vscode,atom&perline=10" />
 </p>
 
 ---
