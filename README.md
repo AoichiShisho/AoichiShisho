@@ -13,3 +13,6 @@
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </p>
+
+### ☕️ Buy me a coffee (more than appreciated)
+https://buymeacoffee.com/aoichitrash
