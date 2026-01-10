@@ -1,6 +1,6 @@
 # Konnichiwa!
 
-### 💬　Connect With Me
+###   💬 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/so-nakamura-ab544a246/">
@@ -14,5 +14,7 @@
   </a>
 </p>
 
-### ☕️ Buy me a coffee (more than appreciated)
+<br>
+
+###   ☕️ Buy me a coffee (more than appreciated)
 https://buymeacoffee.com/aoichitrash
